@@ -19,6 +19,3 @@ EduQuity is a sample business website template designed to demonstrate HTML5, CS
 ## Contact
 - Email: eduquity@gmail.com
 - Phone: +27 11 234 5678
-
-## Deployment
-You can deploy this project using GitHub Pages, Netlify, or Vercel.
